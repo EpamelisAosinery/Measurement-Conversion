@@ -1,0 +1,10 @@
+H:\TRIES\Project\C#\Conversion\Conversion\bin\Debug\Conversion.exe.config
+H:\TRIES\Project\C#\Conversion\Conversion\bin\Debug\Conversion.exe
+H:\TRIES\Project\C#\Conversion\Conversion\bin\Debug\Conversion.pdb
+H:\TRIES\Project\C#\Conversion\Conversion\obj\Debug\Conversion.csprojAssemblyReference.cache
+H:\TRIES\Project\C#\Conversion\Conversion\obj\Debug\Conversion.MeasurementConversion.resources
+H:\TRIES\Project\C#\Conversion\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+H:\TRIES\Project\C#\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.cache
+H:\TRIES\Project\C#\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+H:\TRIES\Project\C#\Conversion\Conversion\obj\Debug\Conversion.exe
+H:\TRIES\Project\C#\Conversion\Conversion\obj\Debug\Conversion.pdb
